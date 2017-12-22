@@ -1,0 +1,30 @@
+div.paging {
+	font-size: 10pt;
+	margin:5px 0px;
+}
+div.paging a {
+	color:#900;
+	text-transform: uppercase;
+	text-decoration: none;
+}
+div.paging a:hover {
+	color:#c00;
+}
+div.paging b {
+	color:#900;
+}
+
+a.edit, a.delete, a.add, a.viewprofile{
+	font-size: 10pt;
+	color:#900;
+	font-weight:bold;
+	text-decoration: none;
+	text-align: center;
+}
+a.edit:hover, a.delete:hover, a.add:hover, a.viewprofile:hover {
+	color:#000;
+}
+
+input.text {
+	border:2px solid #aaa;
+}
